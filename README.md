@@ -1,4 +1,4 @@
-# Spaceshup Titanic 
+# Spaceship Titanic 
 
 
 <h3 align="center">Goal: Predict whether a passanger will survive the spaceship titanic 🛳 🚀</h3>
